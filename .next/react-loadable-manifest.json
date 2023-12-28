@@ -1,0 +1,50 @@
+{
+  "..\\node_modules\\next\\dist\\client\\next-dev.js -> ./dev/noop": {
+    "id": "./node_modules/next/dist/client/dev/noop.js",
+    "files": [
+      "static/chunks/5.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./fortmatic-0568efcb.js": {
+    "id": "./node_modules/use-wallet/dist/fortmatic-0568efcb.js",
+    "files": [
+      "static/chunks/7.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./index-1d2649b8.js": {
+    "id": "./node_modules/use-wallet/dist/index-1d2649b8.js",
+    "files": [
+      "static/chunks/1.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./index-a004146a.js": {
+    "id": "./node_modules/use-wallet/dist/index-a004146a.js",
+    "files": [
+      "static/chunks/3.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./index-b6b58529.js": {
+    "id": "./node_modules/use-wallet/dist/index-b6b58529.js",
+    "files": [
+      "static/chunks/0.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./index-c6f22609.js": {
+    "id": "./node_modules/use-wallet/dist/index-c6f22609.js",
+    "files": [
+      "static/chunks/2.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./torus.cjs-c0df7a64.js": {
+    "id": "./node_modules/use-wallet/dist/torus.cjs-c0df7a64.js",
+    "files": [
+      "static/chunks/4.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> squarelink": {
+    "id": "./node_modules/squarelink/lib/squarelink.min.js",
+    "files": [
+      "static/chunks/6.js"
+    ]
+  }
+}
